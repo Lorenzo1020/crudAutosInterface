@@ -3,6 +3,8 @@ public class Principal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		//Se agrega esto en la clase pincipal
 
 		// Coleccion de objetos
 		Autos auto1 = new Autos(23344, "Nissan", "n45", 450000f);
